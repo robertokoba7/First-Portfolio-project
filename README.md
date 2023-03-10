@@ -1,5 +1,4 @@
 ![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-6f434a7345.gif)
-
 # First-Portfolio-project
  The web Application is a clone of *Jumia* that provides a seamless online shopping experience for customers and has increased sales revenue for the business. This portfolio showcases the design, development, and implementation of the ecommerce website. The project is in fullfilment of **ALX SE programme** and **Holberton software Engineering** course.
 
